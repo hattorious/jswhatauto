@@ -1,0 +1,21 @@
+{
+  "name": "jswhatauto",
+  "version": "0.0.1",
+  "description": "nodejs clone of (py)WHATAuto",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mavin/jswhatauto.git"
+  },
+  "author": {
+      "name": "mavin",
+      "email": "git@exstasis.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mavin/jswhatauto/issues"
+  },
+  "homepage": "https://github.com/mavin/jswhatauto",
+  "os" : [ "darwin", "linux" ],
+  "private": true
+}
