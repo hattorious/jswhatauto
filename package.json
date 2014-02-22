@@ -8,14 +8,21 @@
     "url": "git://github.com/mavin/jswhatauto.git"
   },
   "author": {
-      "name": "mavin",
-      "email": "git@exstasis.net"
+    "name": "mavin",
+    "email": "git@exstasis.net"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mavin/jswhatauto/issues"
   },
   "homepage": "https://github.com/mavin/jswhatauto",
-  "os" : [ "darwin", "linux" ],
-  "private": true
+  "os": [
+    "darwin",
+    "linux"
+  ],
+  "private": true,
+  "dependencies": {
+    "irc": "~0.3.6",
+    "utile": "~0.2.1"
+  }
 }
