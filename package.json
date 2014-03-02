@@ -23,6 +23,7 @@
   "private": true,
   "dependencies": {
     "irc": "~0.3.6",
-    "utile": "~0.2.1"
+    "utile": "~0.2.1",
+    "bunyan": "^0.22.1"
   }
 }
