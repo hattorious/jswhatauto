@@ -24,6 +24,7 @@
   "dependencies": {
     "irc": "~0.3.6",
     "utile": "~0.2.1",
-    "bunyan": "^0.22.1"
+    "bunyan": "^0.22.1",
+    "request": "^2.34.0"
   }
 }
